@@ -1,1 +1,1 @@
-# Alternative-Syntax-2-Node.js
+automatic module
